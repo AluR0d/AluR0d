@@ -18,3 +18,6 @@
   </tr>
 </table>
 <br>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/adri%C3%A1n-luque-rodr%C3%ADguez-a54129294/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratik-pingale"/></a>
+</p>
