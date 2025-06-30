@@ -5,9 +5,11 @@
   <img src="https://s6.gifyu.com/images/S8nGR.gif" align="right"/> 
 
 
+<!-- 
 <p align="center" >
   <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLuqRod&&show_icons=true&theme=radical&text_color=8b8b8b&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=3" alt="AdrianLuqRod"/></a>
 </p>
+
 
 
 
@@ -17,7 +19,7 @@
     <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AdrianLuqRod&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
   </tr>
 </table>
-<br>
+<br>-->
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/adri%C3%A1n-luque-rodr%C3%ADguez-a54129294/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratik-pingale"/></a>
 </p>
